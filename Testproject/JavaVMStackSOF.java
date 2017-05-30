@@ -35,3 +35,4 @@ public class JavaVMStackSOF {
 
 //$javac JavaVMStackSOF.java
 //$java -Xss228k JavaVMStackSOF
+//$java -Xss228k -verbose:class JavaVMStackSOF
