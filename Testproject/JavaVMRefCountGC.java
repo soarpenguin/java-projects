@@ -29,4 +29,4 @@ public class JavaVMRefCountGC {
 }
 
 //$javac JavaVMRefCountGC.java
-//$java -Xss228k -verbose:class JavaVMRefCountGC
+//$java -Xss228k -Xloggc:gc.log JavaVMRefCountGC
